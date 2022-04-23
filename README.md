@@ -15,7 +15,7 @@
 
 ## 📫 How to reach me
 [![Twitter](./img/twitter-light.svg)](https://twitter.com/OssamaMohamedd#gh-light-mode-only)
-[![Twitter](./img/twitter-dark.svg)](https://twitter.com/OssamaMohamedd#gh-dark-mode-only)
+[![Twitter](./img/icons8-twitter.svg)](https://twitter.com/OssamaMohamedd#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/osama-mahmoud-52369722a/#gh-light-mode-only)
 [![Linkedin](./img/icons8-linkedin-2.svg)](https://www.linkedin.com/in/osama-mahmoud-52369722a/#gh-dark-mode-only)
