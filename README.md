@@ -23,8 +23,8 @@
 [![Instagram](./img/instagram-light.svg)](https://www.instagram.com/osama_muhamedd/#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/osama_muhamedd/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Facebook](./img/facebook.svg)](https://www.facebook.com/osama.mohamed971/#gh-dark-mode-only)
-[![Facebook](./img/icons8-facebook.svg)](https://www.facebook.com/osama.mohamed971/#gh-dark-mode-only)
+[![Facebook](./img/facebook.svg)](https://www.facebook.com/osama.mohamed971#gh-dark-mode-only)
+[![Facebook](./img/icons8-facebook.svg)](https://www.facebook.com/osama.mohamed971#gh-dark-mode-only)
 
 
 [twitter]: https://twitter.com/OssamaMohamedd
