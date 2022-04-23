@@ -22,7 +22,7 @@
 &nbsp;&nbsp;
 [![Instagram](./img/instagram-light.svg)](https://www.instagram.com/osama_muhamedd/#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/osama_muhamedd/#gh-dark-mode-only)
-[![Facebook](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgadgets360.com%2Fapps%2Fnews%2Ffacebook-dark-mode-rollout-app-android-ios-users-public-testing-2319356&psig=AOvVaw2UfQ_sJBBTbnnQ7J-Zv4ZS&ust=1650774161843000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMi6kY-rqfcCFQAAAAAdAAAAABAD)](https://www.facebook.com/osama.mohamed971)
+[![Facebook](https://i.gadgets360cdn.com/large/facebook_dark_mode_app_small_1604308334089.jpg)](https://www.facebook.com/osama.mohamed971)
 
 
 [twitter]: https://twitter.com/OssamaMohamedd
