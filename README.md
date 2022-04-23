@@ -24,6 +24,7 @@
 [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/osama_muhamedd/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Facebook](./img/facebook.svg)](https://www.facebook.com/osama.mohamed971)
+[![Facebook](./img/icons8-facebook.svg)](https://www.facebook.com/osama.mohamed971)
 
 
 [twitter]: https://twitter.com/OssamaMohamedd
