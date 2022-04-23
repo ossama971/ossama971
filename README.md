@@ -22,8 +22,7 @@
 &nbsp;&nbsp;
 <a href="https://twitter.com/OssamaMohamedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="OssamaMohamedd" height="30" width="40" /></a>
 &nbsp;&nbsp;
-[![Linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/osama-mahmoud-52369722a/#gh-light-mode-only)
-[![Linkedin](./img/icons8-linkedin-2.svg)](https://www.linkedin.com/in/osama-mahmoud-52369722a/#gh-dark-mode-only)
+<a href="https://linkedin.com/in/osama-mahmoud-52369722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-mahmoud-52369722a" height="30" width="40" /></a>
 
 
 
