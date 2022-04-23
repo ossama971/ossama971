@@ -14,11 +14,9 @@
 
 
 ## 📫 How to reach me
-[![Facebook](./img/facebook.svg)](https://www.facebook.com/osama.mohamed971#gh-light-mode-only)
-[![Facebook](./img/iconfacebook.svg)](https://www.facebook.com/osama.mohamed971#gh-dark-mode-only)
+<a href="https://www.facebook.com/osama.mohamed971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osama.mohamed971" height="30" width="40" /></a>
 &nbsp;&nbsp;
-[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/osama_muhamedd/#gh-light-mode-only)
-[![Instagram](./img/icons8-instagram.svg)](https://www.instagram.com/osama_muhamedd/#gh-dark-mode-only)
+<a href="https://www.instagram.com/osama_muhamedd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osama_muhamedd/" height="30" width="40" /></a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/OssamaMohamedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="OssamaMohamedd" height="30" width="40" /></a>
 &nbsp;&nbsp;
