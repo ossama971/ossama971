@@ -14,17 +14,20 @@
 
 
 ## 📫 How to reach me
+[![Facebook](./img/facebook.svg)](https://www.facebook.com/osama.mohamed971#gh-light-mode-only)
+[![Facebook](./img/iconfacebook.svg)](https://www.facebook.com/osama.mohamed971#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/osama_muhamedd/#gh-light-mode-only)
+[![Instagram](./img/icons8-instagram.svg)](https://www.instagram.com/osama_muhamedd/#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![Twitter](./img/twitter-light.svg)](https://twitter.com/OssamaMohamedd#gh-light-mode-only)
 [![Twitter](./img/icons8-twitter.svg)](https://twitter.com/OssamaMohamedd#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/osama-mahmoud-52369722a/#gh-light-mode-only)
 [![Linkedin](./img/icons8-linkedin-2.svg)](https://www.linkedin.com/in/osama-mahmoud-52369722a/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/osama_muhamedd/#gh-light-mode-only)
-[![Instagram](./img/icons8-instagram.svg)](https://www.instagram.com/osama_muhamedd/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Facebook](./img/facebook.svg)](https://www.facebook.com/osama.mohamed971#gh-light-mode-only)
-[![Facebook](./img/iconfacebook.svg)](https://www.facebook.com/osama.mohamed971#gh-dark-mode-only)
+
+
+
 
 
 
