@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm an undergraduate Systems and Biomedical Student at Faculty of Engineering at Cairo University
+- I'm an undergraduate Systems and Biomedical Engineering Student at Cairo University
 - 🔭 I’m currently working on c++ , java , python
 - 🌱 I’m currently learning c++, java , python 🤣🤣
 
