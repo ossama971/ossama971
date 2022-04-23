@@ -17,8 +17,8 @@
 [![Twitter](./img/twitter-light.svg)](https://twitter.com/OssamaMohamedd#gh-light-mode-only)
 [![Twitter](./img/twitter-dark.svg)](https://twitter.com/OssamaMohamedd#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Linkedin](./img/linkedin-light.svg)]([linkedin]#gh-light-mode-only)
-[![Linkedin](./img/linkedin-dark.svg)]([linkedin]#gh-dark-mode-only)
+[![Linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/osama-mahmoud-52369722a/#gh-light-mode-only)
+[![Linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/osama-mahmoud-52369722a/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Instagram](./img/instagram-light.svg)](https://www.instagram.com/osama_muhamedd/#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/osama_muhamedd/#gh-dark-mode-only)
