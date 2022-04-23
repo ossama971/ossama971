@@ -6,8 +6,6 @@
 
 
 
-[Codeforces Profile](https://codeforces.com/profile/osama971)
-
 
 
 
