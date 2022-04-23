@@ -1,8 +1,8 @@
 ### Hi there 👋
 
--I'm an undergraduate Systems and Biomedical Student at Faculty of Engineering at Cairo University
--🔭 I’m currently working on c++ , java , python
--🌱 I’m currently learning c++, java , python 🤣🤣
+- I'm an undergraduate Systems and Biomedical Student at Faculty of Engineering at Cairo University
+- 🔭 I’m currently working on c++ , java , python
+- 🌱 I’m currently learning c++, java , python 🤣🤣
 
 
 
@@ -13,7 +13,7 @@
 
 
 
-##📫 How to reach me
+## 📫 How to reach me
 [![Twitter](./img/twitter-light.svg)](https://twitter.com/OssamaMohamedd#gh-light-mode-only)
 [![Twitter](./img/twitter-dark.svg)](https://twitter.com/OssamaMohamedd#gh-dark-mode-only)
 &nbsp;&nbsp;
