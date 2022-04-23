@@ -22,11 +22,13 @@
 &nbsp;&nbsp;
 [![Instagram](./img/instagram-light.svg)](https://www.instagram.com/osama_muhamedd/#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/osama_muhamedd/#gh-dark-mode-only)
+[![Facebook](https://i.pinimg.com/736x/1a/1a/a1/1a1aa162e286baa94871e0724cda27ee.jpg)](https://www.facebook.com/osama.mohamed971)
 
 
 [twitter]: https://twitter.com/OssamaMohamedd
 [instagram]: https://www.instagram.com/osama_muhamedd/
 [linkedin]: https://www.linkedin.com/in/osama-mahmoud-52369722a/
+[Facebook]: https://www.facebook.com/osama.mohamed971
 <!--
 **ossama971/ossama971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
