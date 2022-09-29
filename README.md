@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - I'm an undergraduate Systems and Biomedical Engineering Student at Cairo University.
-- 🔭 I’m currently interested about Machine learning and Artificial intelligence.🤖
-- I am working on developing all my software skills currently 🌱
+- 🔭 I’m currently interested about Machine learning and Artificial intelligence. 🤖
+- I am working on developing all my software skills. 🌱
 
 
 
