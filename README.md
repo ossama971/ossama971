@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-- I'm an undergraduate Systems and Biomedical Engineering Student at Cairo University.
-- 🔭 I’m currently interested about Machine learning and Artificial intelligence. 🤖
-- I am working on developing all my software skills. 🌱
-
+🚀 I'm currently a Systems and Biomedical Engineering student with a strong interest in machine learning and AI. Exploring the intersection of technology and healthcare to drive innovation. Constantly learning, collaborating, and building projects
 
 
 
