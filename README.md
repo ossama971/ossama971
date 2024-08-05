@@ -9,7 +9,7 @@
 
 
 # 📫 How to reach me
-<a href="https://linkedin.com/in/osama-mahmoud-52369722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-mahmoud-52369722a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/osama-m-badawi-52369722a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-mahmoud-52369722a" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/osamamohamedbadawi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Osama Mohamed Badawi" height="30" width="40" /></a>
 <a href="https://twitter.com/OssamaMohamedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="OssamaMohamedd" height="30" width="40" /></a>
 <a href="https://www.facebook.com/osama.mohamed971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osama.mohamed971" height="30" width="40" /></a>
