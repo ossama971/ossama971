@@ -1,6 +1,6 @@
 # Hi there 👋
 
-#### 🚀 I'm currently a Systems and Biomedical Engineering student with a strong interest in machine learning and AI. Exploring the intersection of technology and healthcare to drive innovation. Constantly learning, collaborating, and building projects
+#### 🚀 I'm currently a Systems and Biomedical Engineering student with a strong interest in Software Engineering and machine learning & AI. Exploring the intersection of technology and healthcare to drive innovation. Constantly learning, collaborating, and building projects
 
 
 
