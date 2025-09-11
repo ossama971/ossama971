@@ -1,6 +1,6 @@
 # Hi there 👋
 
-#### 🚀 I'm currently a Systems and Biomedical Engineering student with a strong interest in Software Engineering and machine learning & AI. Exploring the intersection of technology and healthcare to drive innovation. Constantly learning, collaborating, and building projects
+#### 🚀 A Systems and Biomedical Engineer currently exploring the world of Applied Colour Science through the Erasmus COSI Master’s program. Along the way, I’ve grown a strong passion for AI, software development, and computer vision, always excited about turning ideas into real-world impact and learning from new experiences.
 
 
 
