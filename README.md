@@ -2,7 +2,7 @@
 <h3 align="center">Biomedical engineer who fell down the rabbit hole of pixels & color science</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/osama-m-badawi-52369722a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>  
+  <a href="https://www.linkedin.com/in/osama-mahmoud-52369722a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>  
   <a href="mailto:osama_mohamedd@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
